@@ -1,0 +1,645 @@
+[
+    {
+        "name": "Juice",
+        "launch_dates": [
+            "2022"
+        ],
+        "desc": "Europe's first mission to the Jupiter system",
+        "img": "http://www.esa.int/var/esa/storage/images/esa_multimedia/satellite_images/juice/12049402-1-eng-GB/JUICE_mission.jpg",
+        "more_info": "http://sci.esa.int/science-e/www/area/index.cfm?fareaid=129"
+    },
+    {
+        "name": "Euclid",
+        "launch_dates": [
+            "2020"
+        ],
+        "desc": "Charting dark matter and dark energy’s effects on the Universe",
+        "img": "http://www.esa.int/var/esa/storage/images/esa_multimedia/satellite_images/euclid/12049374-1-eng-GB/EUCLID_mission.jpg",
+        "more_info": "http://sci.esa.int/science-e/www/area/index.cfm?fareaid=102"
+    },
+    {
+        "name": "James Webb Space Telescope",
+        "launch_dates": [
+            "2018"
+        ],
+        "desc": "Contributing two instruments to the next great space observatory",
+        "img": "http://www.esa.int/var/esa/storage/images/esa_multimedia/satellite_images/james_webb_space_telescope_jwst/12049346-1-eng-GB/James_Webb_Space_Telescope_JWST_mission.jpg",
+        "more_info": "http://www.esa.int/Our_Activities/Space_Science/JWST"
+    },
+    {
+        "name": "Solar Orbiter",
+        "launch_dates": [
+            "2017"
+        ],
+        "desc": "Europe’s closest mission to the Sun",
+        "img": "http://www.esa.int/var/esa/storage/images/esa_multimedia/satellite_images/solar_orbiter/12049318-1-eng-GB/Solar_Orbiter_mission.jpg",
+        "more_info": "http://www.esa.int/Our_Activities/Space_Science/Solar_Orbiter"
+    },
+    {
+        "name": "MTG series",
+        "launch_dates": [
+            "2017"
+        ],
+        "desc": "Meteosat Third Generation",
+        "img": "http://www.esa.int/var/esa/storage/images/esa_multimedia/satellite_images/mtg/12059957-1-eng-GB/MTG_mission.jpg",
+        "more_info": "http://www.esa.int/Our_Activities/Observing_the_Earth/Meteosat_Second_Generation/Development_of_Meteosat_Third_Generation_to_start"
+    },
+    {
+        "name": "Cheops",
+        "launch_dates": [
+            "2017"
+        ],
+        "desc": "Studying planets around other stars",
+        "img": "http://www.esa.int/var/esa/storage/images/esa_multimedia/satellite_images/cheops/12060024-1-eng-GB/Cheops_mission.jpg",
+        "more_info": "http://www.esa.int/Our_Activities/Space_Science/ESA_Science_Programme_s_new_small_satellite_will_study_super-Earths"
+    },
+    {
+        "name": "Exomars",
+        "launch_dates": [
+            "2016",
+            "2018"
+        ],
+        "desc": "Mars orbiter and lander, followed by rover",
+        "img": "http://www.esa.int/var/esa/storage/images/esa_multimedia/satellite_images/exomars/12049290-1-eng-GB/ExoMars_mission.jpg",
+        "more_info": "http://exploration.esa.int/science-e/www/area/index.cfm?fareaid=118"
+    },
+    {
+        "name": "ADM-Aeolus",
+        "launch_dates": [
+            "2015"
+        ],
+        "desc": "Mapping Earth's global wind fields",
+        "img": "http://www.esa.int/var/esa/storage/images/esa_multimedia/satellite_images/adm-aeolus/12049206-1-eng-GB/ADM-Aeolus_mission.jpg",
+        "more_info": "http://www.esa.int/Our_Activities/Observing_the_Earth/The_Living_Planet_Programme/Earth_Explorers/ADM-Aeolus"
+    },
+    {
+        "name": "EarthCARE",
+        "launch_dates": [
+            "2015"
+        ],
+        "desc": "Studying the roles of clouds and aerosols in our climate",
+        "img": "http://www.esa.int/var/esa/storage/images/esa_multimedia/satellite_images/earthcare/12049262-1-eng-GB/EarthCARE_mission.jpg",
+        "more_info": "http://www.esa.int/Our_Activities/Observing_the_Earth/The_Living_Planet_Programme/Earth_Explorers/EarthCARE"
+    },
+    {
+        "name": "BepiColombo",
+        "launch_dates": [
+            "2015"
+        ],
+        "desc": "Europe’s first mission to Mercury",
+        "img": "http://www.esa.int/var/esa/storage/images/esa_multimedia/satellite_images/bepicolombo/12049234-1-eng-GB/BepiColombo_mission.jpg",
+        "more_info": "http://www.esa.int/Our_Activities/Space_Science/BepiColombo_overview2"
+    },
+    {
+        "name": "LISA Pathfinder",
+        "launch_dates": [
+            "2014"
+        ],
+        "desc": "Technology demonstration for gravitational wave detection",
+        "img": "http://www.esa.int/var/esa/storage/images/esa_multimedia/satellite_images/lisa_pathfinder/12049150-1-eng-GB/Lisa_Pathfinder_mission.jpg",
+        "more_info": "http://www.esa.int/Our_Activities/Space_Science/LISA_Pathfinder_overview"
+    },
+    {
+        "name": "SmallGEO",
+        "launch_dates": [
+            "2014"
+        ],
+        "desc": "New small platform for geostationary telecommunications  ",
+        "img": "http://www.esa.int/var/esa/storage/images/esa_multimedia/satellite_images/small_geo/12049178-1-eng-GB/SMALL_GEO_mission.jpg",
+        "more_info": "http://www.esa.int/Our_Activities/Telecommunications_Integrated_Applications/SmallGEO"
+    },
+    {
+        "name": "EDRS",
+        "launch_dates": [
+            "2014"
+        ],
+        "desc": "Geostationary satellites for relaying satellite data",
+        "img": "http://www.esa.int/var/esa/storage/images/esa_multimedia/satellite_images/edrs/12049010-2-eng-GB/EDRS_mission.jpg",
+        "more_info": "http://www.esa.int/Our_Activities/Telecommunications_Integrated_Applications/EDRS"
+    },
+    {
+        "name": "Alphasat",
+        "launch_dates": [
+            "2013"
+        ],
+        "desc": "Innovative satellite telecommunications platform",
+        "img": "http://www.esa.int/var/esa/storage/images/esa_multimedia/satellite_images/alphasat/12049066-1-eng-GB/ALPHASAT_mission.jpg",
+        "more_info": "http://www.esa.int/Our_Activities/Telecommunications_Integrated_Applications/Alphasat/Overview"
+    },
+    {
+        "name": "Gaia",
+        "launch_dates": [
+            "2013"
+        ],
+        "desc": "Mission to map a billion local stars in 3D",
+        "img": "http://www.esa.int/var/esa/storage/images/esa_multimedia/satellite_images/gaia/12049122-1-eng-GB/GAIA_mission.jpg",
+        "more_info": "http://www.esa.int/Our_Activities/Space_Science/Gaia/Gaia_overview"
+    },
+    {
+        "name": "Swarm",
+        "launch_dates": [
+            "2013"
+        ],
+        "desc": "Trio of satellites mapping Earth’s magnetic field",
+        "img": "http://www.esa.int/var/esa/storage/images/esa_multimedia/satellite_images/swarm/12049038-1-eng-GB/SWARM_mission.jpg",
+        "more_info": "http://www.esa.int/Our_Activities/Observing_the_Earth/The_Living_Planet_Programme/Earth_Explorers/Swarm"
+    },
+    {
+        "name": "Sentinel family",
+        "launch_dates": [
+            "2014"
+        ],
+        "desc": "A portfolio of operational Earth observation missions",
+        "img": "http://www.esa.int/var/esa/storage/images/esa_multimedia/images/2014/02/sentinel-1/14276530-1-eng-GB/Sentinel-1_mission.jpg",
+        "more_info": "http://www.esa.int/Our_Activities/Observing_the_Earth/Copernicus/Overview4"
+    },
+    {
+        "name": "European Robotic Arm",
+        "launch_dates": [
+            "2013"
+        ],
+        "desc": "Robotic arm serving Russian segment of ISS",
+        "img": "http://www.esa.int/var/esa/storage/images/esa_multimedia/satellite_images/european_robotic_arm_era/12048982-1-eng-GB/European_Robotic_Arm_ERA_mission.jpg",
+        "more_info": "http://www.esa.int/Our_Activities/Human_Spaceflight/International_Space_Station/European_Robotic_Arm"
+    },
+    {
+        "name": "IXV",
+        "launch_dates": [
+            "2013"
+        ],
+        "desc": "Intermediate eXperimental Vehicle ",
+        "img": "http://www.esa.int/var/esa/storage/images/esa_multimedia/satellite_images/ixv/12059929-1-eng-GB/IXV_mission.jpg",
+        "more_info": "http://www.esa.int/Our_Activities/Launchers/Launcher_Technology/Reentry_technologies"
+    },
+    {
+        "name": "Vega",
+        "launch_dates": [
+            "2012"
+        ],
+        "desc": "Europe’s small satellite launcher",
+        "img": "http://www.esa.int/var/esa/storage/images/esa_multimedia/satellite_images/vega/12048932-1-eng-GB/VEGA_mission.jpg",
+        "more_info": "http://www.esa.int/Our_Activities/Launchers"
+    },
+    {
+        "name": "Galileo",
+        "launch_dates": [
+            "2011"
+        ],
+        "desc": "Europe's global satellite navigation system",
+        "img": "http://www.esa.int/var/esa/storage/images/esa_multimedia/satellite_images/galileo/12048904-1-eng-GB/GALILEO_mission.jpg",
+        "more_info": "http://www.esa.int/Our_Activities/Navigation/The_future_-_Galileo"
+    },
+    {
+        "name": "Hylas-1",
+        "launch_dates": [
+            "2010"
+        ],
+        "desc": "Broadband services in public-private partnership ",
+        "img": "http://www.esa.int/var/esa/storage/images/esa_multimedia/satellite_images/hylas/12059890-1-eng-GB/Hylas_mission.jpg",
+        "more_info": "http://www.esa.int/Our_Activities/Telecommunications_Integrated_Applications/Hylas/Overview"
+    },
+    {
+        "name": "GOCE",
+        "launch_dates": [
+            "2009"
+        ],
+        "desc": "Mapping Earth's gravity",
+        "img": "http://www.esa.int/var/esa/storage/images/esa_multimedia/satellite_images/goce/12048788-1-eng-GB/GOCE_mission.jpg",
+        "more_info": "http://www.esa.int/Our_Activities/Observing_the_Earth/The_Living_Planet_Programme/Earth_Explorers/GOCE"
+    },
+    {
+        "name": "Herschel",
+        "launch_dates": [
+            "2009"
+        ],
+        "desc": "Far-infrared astronomy mission",
+        "img": "http://www.esa.int/var/esa/storage/images/esa_multimedia/satellite_images/herschel/12048820-1-eng-GB/HERSCHEL_mission.jpg",
+        "more_info": "http://www.esa.int/Our_Activities/Space_Science/Herschel"
+    },
+    {
+        "name": "Planck",
+        "launch_dates": [
+            "2009"
+        ],
+        "desc": "Mapping the cosmic microwave background",
+        "img": "http://www.esa.int/var/esa/storage/images/esa_multimedia/satellite_images/planck/12048848-1-eng-GB/PLANCK_mission.jpg",
+        "more_info": "http://www.esa.int/Our_Activities/Space_Science/Planck"
+    },
+    {
+        "name": "SMOS",
+        "launch_dates": [
+            "2009"
+        ],
+        "desc": "Measuring soil moisture and ocean salinity",
+        "img": "http://www.esa.int/var/esa/storage/images/esa_multimedia/satellite_images/smos/12048876-1-eng-GB/SMOS_mission.jpg",
+        "more_info": "http://www.esa.int/Our_Activities/Observing_the_Earth/The_Living_Planet_Programme/Earth_Explorers/SMOS"
+    },
+    {
+        "name": "ATV",
+        "launch_dates": [
+            "2008",
+            "2011",
+            "2012"
+        ],
+        "desc": "Space truck for ISS resupply",
+        "img": "http://www.esa.int/var/esa/storage/images/esa_multimedia/satellite_images/atv/12048696-1-eng-GB/ATV_mission.jpg",
+        "more_info": "http://www.esa.int/Our_Activities/Human_Spaceflight/ATV"
+    },
+    {
+        "name": "Columbus",
+        "launch_dates": [
+            "2008"
+        ],
+        "desc": "Europe’s ISS research laboratory",
+        "img": "http://www.esa.int/var/esa/storage/images/esa_multimedia/satellite_images/columbus/12048724-1-eng-GB/COLUMBUS_mission.jpg",
+        "more_info": "http://www.esa.int/Our_Activities/Human_Spaceflight/Columbus"
+    },
+    {
+        "name": "MetOp series",
+        "launch_dates": [
+            "2006",
+            "2012"
+        ],
+        "desc": "Polar meteorological services",
+        "img": "http://www.esa.int/var/esa/storage/images/esa_multimedia/satellite_images/metop/12048668-1-eng-GB/METOP_mission.jpg",
+        "more_info": "http://www.esa.int/Our_Activities/Observing_the_Earth/The_Living_Planet_Programme/Meteorological_missions/MetOp"
+    },
+    {
+        "name": "CryoSat",
+        "launch_dates": [
+            "2005",
+            "2010"
+        ],
+        "desc": "Measuring polar-ice thickness",
+        "img": "http://www.esa.int/var/esa/storage/images/esa_multimedia/satellite_images/cryosat/12048580-1-eng-GB/CRYOSAT_mission.jpg",
+        "more_info": "http://www.esa.int/Our_Activities/Observing_the_Earth/The_Living_Planet_Programme/Earth_Explorers/CryoSat-2"
+    },
+    {
+        "name": "Venus Express",
+        "launch_dates": [
+            "2005"
+        ],
+        "desc": "Europe’s first Venus orbiter",
+        "img": "http://www.esa.int/var/esa/storage/images/esa_multimedia/satellite_images/venus_express/12048608-1-eng-GB/Venus_Express_mission.jpg",
+        "more_info": "http://www.esa.int/Our_Activities/Space_Science/Venus_Express"
+    },
+    {
+        "name": "Giove-a & b",
+        "launch_dates": [
+            "2005",
+            "2008"
+        ],
+        "desc": "Technology demonstration for Galileo",
+        "img": "http://www.esa.int/var/esa/storage/images/esa_multimedia/satellite_images/giove/12048636-1-eng-GB/GIOVE_mission.jpg",
+        "more_info": "http://www.esa.int/Our_Activities/Navigation/The_future_-_Galileo/First_Galileo_Launch"
+    },
+    {
+        "name": "Sloshsat",
+        "launch_dates": [
+            "2005"
+        ],
+        "desc": "Investigating fuel sloshing effects",
+        "img": "http://www.esa.int/var/esa/storage/images/esa_multimedia/satellite_images/sloshsat/12048552-1-eng-GB/SLOSHSAT_mission.jpg",
+        "more_info": "http://esamultimedia.esa.int/multimedia/publications/BR-250/BR-250.pdf#page=138"
+    },
+    {
+        "name": "Rosetta",
+        "launch_dates": [
+            "2004"
+        ],
+        "desc": "Deep space comet rendezvous mission",
+        "img": "http://www.esa.int/var/esa/storage/images/esa_multimedia/satellite_images/rosetta/12048524-1-eng-GB/ROSETTA_mission.jpg",
+        "more_info": "http://www.esa.int/Our_Activities/Space_Science/Rosetta"
+    },
+    {
+        "name": "Mars Express",
+        "launch_dates": [
+            "2003"
+        ],
+        "desc": "Europe's first Red Planet orbiter",
+        "img": "http://www.esa.int/var/esa/storage/images/esa_multimedia/satellite_images/mars_express/12048468-2-eng-GB/Mars_Express_mission.jpg",
+        "more_info": "http://www.esa.int/Our_Activities/Space_Science/Mars_Express"
+    },
+    {
+        "name": "SMART-1",
+        "launch_dates": [
+            "2003"
+        ],
+        "desc": "Experimental Moon mission",
+        "img": "http://www.esa.int/var/esa/storage/images/esa_multimedia/satellite_images/smart/12048496-1-eng-GB/SMART_mission.jpg",
+        "more_info": "http://www.esa.int/Our_Activities/Space_Science/SMART-1"
+    },
+    {
+        "name": "Envisat",
+        "launch_dates": [
+            "2002"
+        ],
+        "desc": "10-instrument environmental satellite",
+        "img": "http://www.esa.int/var/esa/storage/images/esa_multimedia/satellite_images/envisat/12048356-1-eng-GB/ENVISAT_mission.jpg",
+        "more_info": "http://www.esa.int/Our_Activities/Observing_the_Earth/Envisat"
+    },
+    {
+        "name": "Integral",
+        "launch_dates": [
+            "2002"
+        ],
+        "desc": "Gamma-ray astronomy",
+        "img": "http://www.esa.int/var/esa/storage/images/esa_multimedia/satellite_images/integral/12048412-1-eng-GB/INTEGRAL_mission.jpg",
+        "more_info": "http://sci.esa.int/science-e/www/area/index.cfm?fareaid=21"
+    },
+    {
+        "name": "MSG series",
+        "launch_dates": [
+            "2002",
+            "2005",
+            "2012"
+        ],
+        "desc": "Second-generation European meteorology satellites",
+        "img": "http://www.esa.int/var/esa/storage/images/esa_multimedia/satellite_images/msg/12048384-1-eng-GB/MSG_mission.jpg",
+        "more_info": "http://www.esa.int/Our_Activities/Observing_the_Earth/Meteosat_Second_Generation"
+    },
+    {
+        "name": "Artemis",
+        "launch_dates": [
+            "2001"
+        ],
+        "desc": "Technology demonstration for telecommunications",
+        "img": "http://www.esa.int/var/esa/storage/images/esa_multimedia/satellite_images/artemis/12048300-1-eng-GB/ARTEMIS_mission.jpg",
+        "more_info": "http://www.esa.int/Our_Activities/Telecommunications_Integrated_Applications/Artemis"
+    },
+    {
+        "name": "Proba series",
+        "launch_dates": [
+            "2001",
+            "2009",
+            "2013"
+        ],
+        "desc": "Technology demonstration microsatellites",
+        "img": "http://www.esa.int/var/esa/storage/images/esa_multimedia/satellite_images/proba/12048328-1-eng-GB/PROBA_mission.jpg",
+        "more_info": "http://www.esa.int/Our_Activities/Technology/Proba_Missions"
+    },
+    {
+        "name": "XMM-Newton",
+        "launch_dates": [
+            "1999"
+        ],
+        "desc": "X-ray astronomy",
+        "img": "http://www.esa.int/var/esa/storage/images/esa_multimedia/satellite_images/xmm-newton/12048272-1-eng-GB/XMM-Newton_mission.jpg",
+        "more_info": "http://www.esa.int/Our_Activities/Space_Science/XMM-Newton_overview"
+    },
+    {
+        "name": "ARD",
+        "launch_dates": [
+            "1998"
+        ],
+        "desc": "First European experimental reentry vehicle",
+        "img": "http://www.esa.int/var/esa/storage/images/esa_multimedia/satellite_images/ard/12048244-1-eng-GB/ARD_mission.jpg",
+        "more_info": "http://esamultimedia.esa.int/multimedia/publications/BR-250/BR-250.pdf#page=103"
+    },
+    {
+        "name": "Huygens",
+        "launch_dates": [
+            "1997"
+        ],
+        "desc": "Surface probe of Saturn’s moon Titan",
+        "img": "http://www.esa.int/var/esa/storage/images/esa_multimedia/satellite_images/huygens/12048216-1-eng-GB/HUYGENS_mission.jpg",
+        "more_info": "http://www.esa.int/Our_Activities/Space_Science/Cassini-Huygens"
+    },
+    {
+        "name": "Cluster",
+        "launch_dates": [
+            "1996",
+            "2000"
+        ],
+        "desc": "Space plasma physics in 3D",
+        "img": "http://www.esa.int/var/esa/storage/images/esa_multimedia/satellite_images/cluster/12048188-1-eng-GB/CLUSTER_mission.jpg",
+        "more_info": "http://www.esa.int/Our_Activities/Space_Science/Cluster_overview2"
+    },
+    {
+        "name": "ISO",
+        "launch_dates": [
+            "1995"
+        ],
+        "desc": "Infrared astronomy",
+        "img": "http://www.esa.int/var/esa/storage/images/esa_multimedia/satellite_images/iso/12048132-1-eng-GB/ISO_mission.jpg",
+        "more_info": "http://www.esa.int/Our_Activities/Space_Science/ISO_overview"
+    },
+    {
+        "name": "SOHO",
+        "launch_dates": [
+            "1995"
+        ],
+        "desc": "Continuous observation of the Sun",
+        "img": "http://www.esa.int/var/esa/storage/images/esa_multimedia/satellite_images/soho/12048160-1-eng-GB/SOHO_mission.jpg",
+        "more_info": "http://www.esa.int/Our_Activities/Space_Science/SOHO_overview2"
+    },
+    {
+        "name": "Eureca",
+        "launch_dates": [
+            "1992"
+        ],
+        "desc": "Reusable free-flying microgravity testbed",
+        "img": "http://www.esa.int/var/esa/storage/images/esa_multimedia/satellite_images/eureca/12048099-1-eng-GB/EURECA_mission.jpg",
+        "more_info": "http://esamultimedia.esa.int/multimedia/publications/BR-250/BR-250.pdf#page=78"
+    },
+    {
+        "name": "ERS-1 & -2",
+        "launch_dates": [
+            "1991",
+            "1995"
+        ],
+        "desc": "Radar-based Earth observation",
+        "img": "http://www.esa.int/var/esa/storage/images/esa_multimedia/satellite_images/ers/12048066-1-eng-GB/ERS_mission.jpg",
+        "more_info": "http://www.esa.int/Our_Activities/Observing_the_Earth/ERS_overview"
+    },
+    {
+        "name": "Hubble Space Telescope",
+        "launch_dates": [
+            "1990"
+        ],
+        "desc": "ESA contributed solar arrays and Faint Object Camera",
+        "img": "http://www.esa.int/var/esa/storage/images/esa_multimedia/satellite_images/hubble_space_telescope/12048010-1-eng-GB/Hubble_Space_Telescope_mission.jpg",
+        "more_info": "http://www.esa.int/Our_Activities/Space_Science/Hubble_overview"
+    },
+    {
+        "name": "Ulysses",
+        "launch_dates": [
+            "1990"
+        ],
+        "desc": "Charting space above and below the Sun’s poles",
+        "img": "http://www.esa.int/var/esa/storage/images/esa_multimedia/satellite_images/ulysses/12048038-1-eng-GB/ULYSSES_mission.jpg",
+        "more_info": "http://www.esa.int/Our_Activities/Space_Science/Ulysses_overview"
+    },
+    {
+        "name": "Hipparcos",
+        "launch_dates": [
+            "1989"
+        ],
+        "desc": "Mapping the positions of more than 100 000 stars",
+        "img": "http://www.esa.int/var/esa/storage/images/esa_multimedia/satellite_images/hipparcos/12047982-1-eng-GB/HIPPARCOS_mission.jpg",
+        "more_info": "http://www.esa.int/Our_Activities/Space_Science/Hipparcos_overview"
+    },
+    {
+        "name": "Olympus",
+        "launch_dates": [
+            "1989"
+        ],
+        "desc": "Technology demonstration for telecommunications",
+        "img": "http://www.esa.int/var/esa/storage/images/esa_multimedia/satellite_images/olympus/12047954-1-eng-GB/OLYMPUS_mission.jpg",
+        "more_info": "http://www.esa.int/Our_Activities/Telecommunications_Integrated_Applications/Historical_overview"
+    },
+    {
+        "name": "Giotto",
+        "launch_dates": [
+            "1985"
+        ],
+        "desc": "Intercepting Comet Halley and Comet Grigg–Skjellerup",
+        "img": "http://www.esa.int/var/esa/storage/images/esa_multimedia/satellite_images/giotto/12047816-1-eng-GB/GIOTTO_mission.jpg",
+        "more_info": "http://www.esa.int/Our_Activities/Space_Science/Giotto_overview"
+    },
+    {
+        "name": "Exosat",
+        "launch_dates": [
+            "1983"
+        ],
+        "desc": "X-ray astronomy",
+        "img": "http://www.esa.int/var/esa/storage/images/esa_multimedia/satellite_images/exosat/12047719-1-eng-GB/EXOSAT_mission.jpg",
+        "more_info": "http://www.esa.int/Our_Activities/Space_Science/Exosat_overview"
+    },
+    {
+        "name": "ECS series",
+        "launch_dates": [
+            "1983",
+            "1984",
+            "1985",
+            "1987",
+            "1988"
+        ],
+        "desc": "Operational European telecommunications satellites",
+        "img": "http://www.esa.int/var/esa/storage/images/esa_multimedia/satellite_images/ecs/12047747-1-eng-GB/ECS_mission.jpg",
+        "more_info": "http://www.esa.int/Our_Activities/Telecommunications_Integrated_Applications/Historical_overview"
+    },
+    {
+        "name": "Spacelab",
+        "launch_dates": [
+            "1983"
+        ],
+        "desc": "Laboratory module for NASA’s Space Shuttle; 22 launches",
+        "img": "http://www.esa.int/var/esa/storage/images/esa_multimedia/satellite_images/spacelab/12047775-1-eng-GB/Spacelab_mission.jpg",
+        "more_info": "http://www.esa.int/Our_Activities/Human_Spaceflight/Space_Shuttle/Spacelab"
+    },
+    {
+        "name": "Marecs series",
+        "launch_dates": [
+            "1981",
+            "1982",
+            "1984"
+        ],
+        "desc": "Maritime telecommunications satellites",
+        "img": "http://www.esa.int/var/esa/storage/images/esa_multimedia/satellite_images/marecs/12047691-1-eng-GB/MARECS_mission.jpg",
+        "more_info": "http://www.esa.int/Our_Activities/Telecommunications_Integrated_Applications/Historical_overview"
+    },
+    {
+        "name": "Ariane",
+        "launch_dates": [
+            "1979"
+        ],
+        "desc": "Commercial launcher securing Europe’s non-dependent space access",
+        "img": "http://www.esa.int/var/esa/storage/images/esa_multimedia/satellite_images/ariane/12047663-1-eng-GB/ARIANE_mission.jpg",
+        "more_info": "http://www.esa.int/Our_Activities/Launchers"
+    },
+    {
+        "name": "IUE",
+        "launch_dates": [
+            "1978"
+        ],
+        "desc": "Ultraviolet astronomy",
+        "img": "http://www.esa.int/var/esa/storage/images/esa_multimedia/satellite_images/iue/12047635-1-eng-GB/IUE_mission.jpg",
+        "more_info": "http://www.esa.int/Our_Activities/Space_Science/IUE_overview"
+    },
+    {
+        "name": "ISEE-2",
+        "launch_dates": [
+            "1977"
+        ],
+        "desc": "Charting Sun–Earth relations and magnetic field",
+        "img": "http://www.esa.int/var/esa/storage/images/esa_multimedia/satellite_images/isee-2/12047579-1-eng-GB/ISEE-2_mission.jpg",
+        "more_info": "http://esamultimedia.esa.int/multimedia/publications/BR-250/BR-250.pdf"
+    },
+    {
+        "name": "GEOS-1 & -2",
+        "launch_dates": [
+            "1977",
+            "1978"
+        ],
+        "desc": "Probing dynamics of Earth’s magnetic field, waves and particles",
+        "img": "http://www.esa.int/var/esa/storage/images/esa_multimedia/satellite_images/geos/12047523-1-eng-GB/GEOS_mission.jpg",
+        "more_info": "http://esamultimedia.esa.int/multimedia/publications/BR-250/BR-250.pdf"
+    },
+    {
+        "name": "Meteosat series",
+        "launch_dates": [
+            "1977",
+            "1981",
+            "1988",
+            "1989",
+            "1991",
+            "1993",
+            "1997",
+            "2002"
+        ],
+        "desc": "Europe's weather satellites for daily forecasting",
+        "img": "http://www.esa.int/var/esa/storage/images/esa_multimedia/satellite_images/meteosat/12047607-1-eng-GB/METEOSAT_mission.jpg",
+        "more_info": "http://www.esa.int/Our_Activities/Observing_the_Earth/Meteosat_Second_Generation/30_years_of_Meteosat_in_pictures"
+    },
+    {
+        "name": "OTS-1 & -2",
+        "launch_dates": [
+            "1977",
+            "1978"
+        ],
+        "desc": "Demonstrating technologies for telecommunications",
+        "img": "http://www.esa.int/var/esa/storage/images/esa_multimedia/satellite_images/ots/12047551-1-eng-GB/OTS_mission.jpg",
+        "more_info": "http://esamultimedia.esa.int/multimedia/publications/BR-250/BR-250.pdf#page=37"
+    },
+    {
+        "name": "Cos-B",
+        "launch_dates": [
+            "1975"
+        ],
+        "desc": "Gamma-ray astronomy",
+        "img": "http://www.esa.int/var/esa/storage/images/esa_multimedia/satellite_images/cos-b/12047495-1-eng-GB/COS-B_mission.jpg",
+        "more_info": "http://www.esa.int/Our_Activities/Space_Science/Cos-B_overview2"
+    },
+    {
+        "name": "TD-1",
+        "launch_dates": [
+            "1972"
+        ],
+        "desc": "UV, X-ray and gamma-ray astronomy",
+        "img": "http://www.esa.int/var/esa/storage/images/esa_multimedia/satellite_images/td-1/12047467-1-eng-GB/TD-1_mission.jpg",
+        "more_info": "http://www.esa.int/esapub/br/br250/br250.pdf"
+    },
+    {
+        "name": "ESRO series ",
+        "launch_dates": [
+            "1967",
+            "1968",
+            "1969",
+            "1972"
+        ],
+        "desc": "Scientific exploration of space’s particle and radiation environment",
+        "img": "http://www.esa.int/var/esa/storage/images/esa_multimedia/satellite_images/esro/12047411-3-eng-GB/ESRO_mission.jpg",
+        "more_info": "http://www.esa.int/About_Us/Welcome_to_ESA/ESA_history/History_ESRO-4_satellite_1972"
+    },
+    {
+        "name": "HEOS-1 & -2",
+        "launch_dates": [
+            "1968",
+            "1972"
+        ],
+        "desc": "Probing Earth's magnetic field and the interplanetary medium",
+        "img": "http://www.esa.int/var/esa/storage/images/esa_multimedia/satellite_images/heos/12047439-1-eng-GB/HEOS_mission.jpg",
+        "more_info": "http://esamultimedia.esa.int/multimedia/publications/BR-250/BR-250.pdf"
+    }
+]

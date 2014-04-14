@@ -1,0 +1,28 @@
+<% @i=0 %>
+
+<table border="1">
+	<tr>
+		<th>Si.No</th>
+		<th>Project Name</th>
+		<th>Launch Date</th>
+		<th>Dates Array</th>
+		<th>Description</th>
+		<th>Images</th>
+		<th>More Info link</th>
+	</tr>
+<% @data.each do |data| %>
+	<% @info = data.split(' || ') %>
+	<tr>
+		<td><%= @i %></td>
+		<td><%= @info[0] %></td>
+		<td><%= @info[1] %></td>
+		<td><%= @info[1].gsub(/[^0-9]/, ' ').squish.split(' ') %></td>
+		<td><%= @info[2] %></td>
+		<td><%= @imgsrc[@i] %></td>
+		<td><%= @info[3] %></td>
+	</tr>
+	<% @i = @i +1 %>
+<% end %>
+</table>
+
+<%= @resp_json %>

@@ -1,0 +1,962 @@
+[
+    {
+        "name": "OHSUMI",
+        "img": "http://www.isas.jaxa.jp/e/enterp/missions/image/pct_main_ohsumi.jpg",
+        "desc": "To study satellite launch technologies by M (Mu) rocket and perform an engineering experiment on the satellite.",
+        "more_info": "http://www.isas.jaxa.jp/e/enterp/missions/ohsumi.shtml",
+        "launch_dates": [
+            "2/11/1970"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "TANSEI (MS-T1)",
+        "img": "http://www.isas.jaxa.jp/e/enterp/missions/image/pct_main_tansei.jpg",
+        "desc": "Performance verification of M-4S rocket and, after insertion into orbit, research on space environment and satellite performance test.",
+        "more_info": "http://www.isas.jaxa.jp/e/enterp/missions/tansei.shtml",
+        "launch_dates": [
+            "2/16/1971"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "SHINSEI",
+        "img": "http://www.isas.jaxa.jp/e/enterp/missions/image/pct_main_shinsei.jpg",
+        "desc": "Observation of ionosphere, cosmic rays, shortwave band solar noise, etc.",
+        "more_info": "http://www.isas.jaxa.jp/e/enterp/missions/shinsei.shtml",
+        "launch_dates": [
+            "9/28/1971"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "DENPA (REXS)",
+        "img": "http://www.isas.jaxa.jp/e/enterp/missions/image/pct_main_denpa.jpg",
+        "desc": "Conduct observation of plasma waves, plasma density, electron flux, electromagnetic waves, geomagnetism, etc. to study plasma filling the entire solar system.",
+        "more_info": "http://www.isas.jaxa.jp/e/enterp/missions/denpa.shtml",
+        "launch_dates": [
+            "8/9/1972"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "TANSEI-2 (MS-T2)",
+        "img": "http://www.isas.jaxa.jp/e/enterp/missions/image/pct_main_tansei2.jpg",
+        "desc": "Performance test of M-3C rocket, verification of radio-guidance system, and pre-test of the satellite attitude-control system using geomagnetic field that would be required for scientific satellite to be launched.",
+        "more_info": "http://www.isas.jaxa.jp/e/enterp/missions/tansei2.shtml",
+        "launch_dates": [
+            "2/16/1974"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "TAIYO (SRATS)",
+        "img": "http://www.isas.jaxa.jp/e/enterp/missions/image/pct_main_taiyo.jpg",
+        "desc": "Observation of solar soft X-ray, solar vacuum ultraviolet radiation, ultraviolet earth coronal bright lines, etc., to research upper-atmosphere physics.",
+        "more_info": "http://www.isas.jaxa.jp/e/enterp/missions/taiyo.shtml",
+        "launch_dates": [
+            "2/24/1975"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "KIKU-1 (ETS-I)",
+        "img": "http://www.jaxa.jp/projects/sat/ets1/img/photo_ets1.jpg",
+        "desc": "ETS-I was NASDA's first satellite launched with the objectives of acquiring all-around information on N-series launch vehicles, orbit injection and tracking and control. KIKU finished its operation on April 28,1982.",
+        "more_info": "http://www.jaxa.jp/projects/sat/ets1/index_e.html",
+        "launch_dates": [
+            "9/9/1975"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "UME (ISS)",
+        "img": "http://www.jaxa.jp/projects/sat/iss/img/photo_iss.jpg",
+        "desc": "Japan's first ionoshere sounding satellite was named Ume. It was used to monitor radio waves in the ionosphere and forecast conditions for optimal use of shortwave communications. Ume-2 was put into orbit two years later - a power supply system failure caused Ume to malfunction one month after launching. Ume-2 kept gathering obserration data even after its 1.5 year mission term. And it finished its operation on February 23,1983,because of deterioration of power generation.",
+        "more_info": "http://www.jaxa.jp/projects/sat/iss/index_e.html",
+        "launch_dates": [
+            "2/29/1976"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "TANSEI-3 (MS-T3)",
+        "img": "http://www.isas.jaxa.jp/e/enterp/missions/image/pct_main_tansei3.jpg",
+        "desc": "Performance test of M-3H rocket, and demonstration of new technologies, such as magnetic-field-aligned, attitude-stabilization method and spin-axis control by cold gas jet, required for the next and subsequent scientific satellites.",
+        "more_info": "http://www.isas.jaxa.jp/e/enterp/missions/tansei3.shtml",
+        "launch_dates": [
+            "2/19/1977"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "KIKU-2 (ETS-II)",
+        "img": "http://www.jaxa.jp/projects/sat/ets2/img/photo_ets2.jpg",
+        "desc": "KIKU-2(ETS-II) is NASDA's first geostationary satellite launched to acquire data on geostationary satellite launch, tracking and control, orbit maintenance and attitude control and to carry out experiments on communication equipment performance in outer space. Kiku-2 finished its operation on December 10,1990, and left the geostationary orbit.",
+        "more_info": "http://www.jaxa.jp/projects/sat/ets2/index_e.html",
+        "launch_dates": [
+            "2/23/1977"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "Himawari (GMS)",
+        "img": "http://www.jaxa.jp/projects/sat/gms/img/photo_gms.jpg",
+        "desc": "The Japanese Geostationary Meteorological Satellite (GMS) series, also known as its nickname, \"Himawari\" (meaning a \"sunflower\"), is on the geostationary orbit at 140 degrees of east longitude to carry out weather observation from space being part of the World Weather Watch (WWW) project of the World Meteorological Organization. The images of the earth and clouds sent from this satellite series have been used in many areas such as weather forecasts in TV or newspaper; therefore, it is strongly connected to our daily life. After the \"Himawari-6\", the GMS series was replaced by a Multifunctional Transport Satellite series to broaden its scope of operation. It is operated by the Japan Meteorological Agency for climatic observation.",
+        "more_info": "http://www.jaxa.jp/projects/sat/gms/index_e.html",
+        "launch_dates": [
+            "7/14/1977"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "Sakura (CS)",
+        "img": "http://www.jaxa.jp/projects/sat/cs/img/photo_cs.jpg",
+        "desc": "The Communication Satellites Sakura(CS) was used to conduct a variety of communications experiments aimed at actualizing practical satellite communications systems in Japan. The Sakura-2(CS-2) were used for public communications operations and for cooperative operations such as emergency transmissions during disasters and communications with distant Japanese islands. It was also Instrumental in developing new communications technology. The Sakura-3(CS-3), replaced the communications services of the CS-2. Still in use to meet the growing demand for communications services as well as assisting in the development of higher level communication technologies. CS-3a finished its programmed operation on November 30,1995. CS-3b finished its programmed operation on May 31, 1996.",
+        "more_info": "http://www.jaxa.jp/projects/sat/cs/index_e.html",
+        "launch_dates": [
+            "12/15/1977"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "UME-2 (ISS-b)",
+        "img": "http://www.jaxa.jp/projects/sat/iss/img/photo_iss.jpg",
+        "desc": "Japan's first ionoshere sounding satellite was named Ume. It was used to monitor radio waves in the ionosphere and forecast conditions for optimal use of shortwave communications. Ume-2 was put into orbit two years later - a power supply system failure caused Ume to malfunction one month after launching. Ume-2 kept gathering obserration data even after its 1.5 year mission term. And it finished its operation on February 23,1983,because of deterioration of power generation.",
+        "more_info": "http://www.jaxa.jp/projects/sat/iss/index_e.html",
+        "launch_dates": [
+            "2/16/1978"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "KYOKKO (EXOS-A)",
+        "img": "http://www.isas.jaxa.jp/e/enterp/missions/image/pct_main_kyokko.jpg",
+        "desc": "Observation of density, temperature, and composition of space plasma; research into energy spectrum of auroral electrons; and ultraviolet imaging of aurorae Participation in the International Magnetospheric Study (IMS)",
+        "more_info": "http://www.isas.jaxa.jp/e/enterp/missions/kyokko.shtml",
+        "launch_dates": [
+            "2/24/1978"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "Yuri (BS)",
+        "img": "http://www.jaxa.jp/projects/sat/bs/img/photo_bs.jpg",
+        "desc": "The BS (Yuri series), in response to future broadcasting needs, have been used in a variety of broadcasting experiments as experimental satellites for reception by individual. The BS-2 (Yuri-2) were designed to solve problems with transmission in areas with poor reception and for developing the technology required for future broadcasting services of the BS-2, responding to growing broadcasting satellites. The BS-3 were launched to replace the broadcasting serices of the BS-2, responding to growing broadcasting needs while developing technologies for more advanced broadcasting satellites. They are presently being used for broadcasting and test broadcasting with high-definition television. BS-2a finished its programmed operation in April, 1989. BS-2b finished its programmed operation on October 24, 1991. BS-3a finished its programmed operation on April 20, 1998. Also, BS-3b finished its programmed operation on December 1, 1998.",
+        "more_info": "http://www.jaxa.jp/projects/sat/bs/index_e.html",
+        "launch_dates": [
+            "4/8/1978"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "JIKIKEN (EXOS-B)",
+        "img": "http://www.isas.jaxa.jp/e/enterp/missions/image/pct_main_jikiken.jpg",
+        "desc": "Research on the region from the plasmasphere to the deep magnetosphere (region from 60,000 to 70,000 km from the earth) Participation in the International Magnetospheric Study (IMS) conducted from 1976 to 1979.",
+        "more_info": "http://www.isas.jaxa.jp/e/enterp/missions/jikiken.shtml",
+        "launch_dates": [
+            "9/16/1978"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "Ayame (ECS)",
+        "img": "http://www.jaxa.jp/projects/sat/ecs/img/photo_ecs.jpg",
+        "desc": "These satellites were launched with the objective of conducting millimeter wave experiments with a satellite. However, the Ayame(ECS) was unable to accomplish its mission, mainly because the 3rd stage rocket came in contact with the satellite after separation. Then the auxiliary Ayame-2(ECS-b) was launched, and it stopped transmitting soon after the apogee engine fired. We learned some valuable lessons on satellite separation technology and apogee engine from this experience.",
+        "more_info": "http://www.jaxa.jp/projects/sat/ecs/index_e.html",
+        "launch_dates": [
+            "2/6/1979"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "HAKUCHO (CORSA-b)",
+        "img": "http://www.isas.jaxa.jp/e/enterp/missions/image/pct_main_hakucho.jpg",
+        "desc": "Studies of X-ray stars, especially X-ray burst sources, through temporal and wide-band spectral observations.",
+        "more_info": "http://www.isas.jaxa.jp/e/enterp/missions/hakucho.shtml",
+        "launch_dates": [
+            "2/21/1979"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "TANSEI-4 (MS-T4)",
+        "img": "http://www.isas.jaxa.jp/e/enterp/missions/image/pct_main_tansei4.jpg",
+        "desc": "Performance test of M-3S rocket, and experiments of future satellite-control systems including automatic control of spin-axis solar-offset orientation by magnetic force and attitude control by fly wheels.",
+        "more_info": "http://www.isas.jaxa.jp/e/enterp/missions/tansei4.shtml",
+        "launch_dates": [
+            "2/17/1980"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "Ayame-2 (ECS-b)",
+        "img": "http://www.jaxa.jp/projects/sat/ecs/img/photo_ecs.jpg",
+        "desc": "These satellites were launched with the objective of conducting millimeter wave experiments with a satellite. However, the Ayame(ECS) was unable to accomplish its mission, mainly because the 3rd stage rocket came in contact with the satellite after separation. Then the auxiliary Ayame-2(ECS-b) was launched, and it stopped transmitting soon after the apogee engine fired. We learned some valuable lessons on satellite separation technology and apogee engine from this experience.",
+        "more_info": "http://www.jaxa.jp/projects/sat/ecs/index_e.html",
+        "launch_dates": [
+            "2/22/1980"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "KIKU-3 (ETS-IV)",
+        "img": "http://www.jaxa.jp/projects/sat/ets4/img/photo_ets4.jpg",
+        "desc": "KIKU-3(ETS-IV) confirmed N-II launch vehicle capability prior to the launching of 350-kg class geostationar meteorological, communications and broadcasting satellites and it performed testing of on-board equipment. KIKU-3 finished its operation on December 24 ,1984 ,because of deterioation of solar battery.",
+        "more_info": "http://www.jaxa.jp/projects/sat/ets4/index_e.html",
+        "launch_dates": [
+            "2/11/1981"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "HINOTORI (ASTRO-A)",
+        "img": "http://www.isas.jaxa.jp/e/enterp/missions/image/pct_main_hinotori.jpg",
+        "desc": "Observation of 2D data in hard X-ray of solar flares, solar particle rays, X-ray bursts, etc.",
+        "more_info": "http://www.isas.jaxa.jp/e/enterp/missions/hinotori.shtml",
+        "launch_dates": [
+            "2/21/1981"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "Himawari-2 (GMS-2)",
+        "img": "http://www.jaxa.jp/projects/sat/gms/img/photo_gms.jpg",
+        "desc": "The Japanese Geostationary Meteorological Satellite (GMS) series, also known as its nickname, \"Himawari\" (meaning a \"sunflower\"), is on the geostationary orbit at 140 degrees of east longitude to carry out weather observation from space being part of the World Weather Watch (WWW) project of the World Meteorological Organization. The images of the earth and clouds sent from this satellite series have been used in many areas such as weather forecasts in TV or newspaper; therefore, it is strongly connected to our daily life. After the \"Himawari-6\", the GMS series was replaced by a Multifunctional Transport Satellite series to broaden its scope of operation. It is operated by the Japan Meteorological Agency for climatic observation.",
+        "more_info": "http://www.jaxa.jp/projects/sat/gms/index_e.html",
+        "launch_dates": [
+            "8/11/1981"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "KIKU-4 (ETS-III)",
+        "img": "http://www.jaxa.jp/projects/sat/ets3/img/photo_ets3.jpg",
+        "desc": "KIKU-4(ETS-III) was developed to acquire data for designing earth observation satellites with high power requirements. Also, KIKU-4 completed testing of three-axis attitude control, deployable solar panels, movable heat control and ion engine operation. On March 8,1985,Kiku ran out of fuel for the attitude control and finished its operation.",
+        "more_info": "http://www.jaxa.jp/projects/sat/ets3/index_e.html",
+        "launch_dates": [
+            "9/3/1982"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "Sakura-2a (CS-2a)",
+        "img": "http://www.jaxa.jp/projects/sat/cs/img/photo_cs.jpg",
+        "desc": "The Communication Satellites Sakura(CS) was used to conduct a variety of communications experiments aimed at actualizing practical satellite communications systems in Japan. The Sakura-2(CS-2) were used for public communications operations and for cooperative operations such as emergency transmissions during disasters and communications with distant Japanese islands. It was also Instrumental in developing new communications technology. The Sakura-3(CS-3), replaced the communications services of the CS-2. Still in use to meet the growing demand for communications services as well as assisting in the development of higher level communication technologies. CS-3a finished its programmed operation on November 30,1995. CS-3b finished its programmed operation on May 31, 1996.",
+        "more_info": "http://www.jaxa.jp/projects/sat/cs/index_e.html",
+        "launch_dates": [
+            "2/4/1983"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "TENMA (ASTRO-B)",
+        "img": "http://www.isas.jaxa.jp/e/enterp/missions/image/pct_main_tenma.jpg",
+        "desc": "High-resolution spectroscopy of X-ray stars and observations of gamma-ray bursts",
+        "more_info": "http://www.isas.jaxa.jp/e/enterp/missions/tenma.shtml",
+        "launch_dates": [
+            "2/20/1983"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "Sakura-2b (CS-2b)",
+        "img": "http://www.jaxa.jp/projects/sat/cs/img/photo_cs.jpg",
+        "desc": "The Communication Satellites Sakura(CS) was used to conduct a variety of communications experiments aimed at actualizing practical satellite communications systems in Japan. The Sakura-2(CS-2) were used for public communications operations and for cooperative operations such as emergency transmissions during disasters and communications with distant Japanese islands. It was also Instrumental in developing new communications technology. The Sakura-3(CS-3), replaced the communications services of the CS-2. Still in use to meet the growing demand for communications services as well as assisting in the development of higher level communication technologies. CS-3a finished its programmed operation on November 30,1995. CS-3b finished its programmed operation on May 31, 1996.",
+        "more_info": "http://www.jaxa.jp/projects/sat/cs/index_e.html",
+        "launch_dates": [
+            "8/6/1983"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "Yuri-2a (BS-2a)",
+        "img": "http://www.jaxa.jp/projects/sat/bs/img/photo_bs.jpg",
+        "desc": "The BS (Yuri series), in response to future broadcasting needs, have been used in a variety of broadcasting experiments as experimental satellites for reception by individual. The BS-2 (Yuri-2) were designed to solve problems with transmission in areas with poor reception and for developing the technology required for future broadcasting services of the BS-2, responding to growing broadcasting satellites. The BS-3 were launched to replace the broadcasting serices of the BS-2, responding to growing broadcasting needs while developing technologies for more advanced broadcasting satellites. They are presently being used for broadcasting and test broadcasting with high-definition television. BS-2a finished its programmed operation in April, 1989. BS-2b finished its programmed operation on October 24, 1991. BS-3a finished its programmed operation on April 20, 1998. Also, BS-3b finished its programmed operation on December 1, 1998.",
+        "more_info": "http://www.jaxa.jp/projects/sat/bs/index_e.html",
+        "launch_dates": [
+            "1/23/1984"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "OHZORA (EXOS-C)",
+        "img": "http://www.isas.jaxa.jp/e/enterp/missions/image/pct_main_ohzora.jpg",
+        "desc": "Elucidation of structure and composition of middle atmosphere, and observation of magnetosphere Participation in the International Middle Atmosphere Program conducted from 1982 through 1985",
+        "more_info": "http://www.isas.jaxa.jp/e/enterp/missions/ohzora.shtml",
+        "launch_dates": [
+            "2/14/1984"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "Himawari-3 (GMS-3)",
+        "img": "http://www.jaxa.jp/projects/sat/gms/img/photo_gms.jpg",
+        "desc": "The Japanese Geostationary Meteorological Satellite (GMS) series, also known as its nickname, \"Himawari\" (meaning a \"sunflower\"), is on the geostationary orbit at 140 degrees of east longitude to carry out weather observation from space being part of the World Weather Watch (WWW) project of the World Meteorological Organization. The images of the earth and clouds sent from this satellite series have been used in many areas such as weather forecasts in TV or newspaper; therefore, it is strongly connected to our daily life. After the \"Himawari-6\", the GMS series was replaced by a Multifunctional Transport Satellite series to broaden its scope of operation. It is operated by the Japan Meteorological Agency for climatic observation.",
+        "more_info": "http://www.jaxa.jp/projects/sat/gms/index_e.html",
+        "launch_dates": [
+            "8/3/1984"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "SAKIGAKE (MS-T5)",
+        "img": "http://www.isas.jaxa.jp/e/enterp/missions/image/pct_main_sakigake.jpg",
+        "desc": "Verification of rocket's flight performance, orbit in interplanetary space of test explorer for the first time in Japan, planning and determination of orbit in interplanetary space necessary for launch into heliocentric orbit, ultra-far distance communications, control and determination of altitude, etc.",
+        "more_info": "http://www.isas.jaxa.jp/e/enterp/missions/sakigake.shtml",
+        "launch_dates": [
+            "1/8/1985"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "SUISEI (PLANET-A)",
+        "img": "http://www.isas.jaxa.jp/e/enterp/missions/image/pct_main_suisei.jpg",
+        "desc": "Observation of Halley's comet on its approach after 76 years",
+        "more_info": "http://www.isas.jaxa.jp/e/enterp/missions/suisei.shtml",
+        "launch_dates": [
+            "8/19/1985"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "Yuri-2b (BS-2b)",
+        "img": "http://www.jaxa.jp/projects/sat/bs/img/photo_bs.jpg",
+        "desc": "The BS (Yuri series), in response to future broadcasting needs, have been used in a variety of broadcasting experiments as experimental satellites for reception by individual. The BS-2 (Yuri-2) were designed to solve problems with transmission in areas with poor reception and for developing the technology required for future broadcasting services of the BS-2, responding to growing broadcasting satellites. The BS-3 were launched to replace the broadcasting serices of the BS-2, responding to growing broadcasting needs while developing technologies for more advanced broadcasting satellites. They are presently being used for broadcasting and test broadcasting with high-definition television. BS-2a finished its programmed operation in April, 1989. BS-2b finished its programmed operation on October 24, 1991. BS-3a finished its programmed operation on April 20, 1998. Also, BS-3b finished its programmed operation on December 1, 1998.",
+        "more_info": "http://www.jaxa.jp/projects/sat/bs/index_e.html",
+        "launch_dates": [
+            "2/12/1986"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "JINDAI",
+        "img": "nill",
+        "desc": "Magnetic Bearing Flywheel Experimental System",
+        "more_info": "nill",
+        "launch_dates": [
+            "8/13/1986"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "GINGA (ASTRO-C)",
+        "img": "http://www.isas.jaxa.jp/e/enterp/missions/image/pct_main_ginga.jpg",
+        "desc": "Observation of X-ray sources in active galactic nucleus and precise observation of X-ray celestial bodies",
+        "more_info": "http://www.isas.jaxa.jp/e/enterp/missions/ginga.shtml",
+        "launch_dates": [
+            "2/5/1987"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "Momo-1 (MOS-1)",
+        "img": "http://www.jaxa.jp/projects/sat/mos1/img/photo_mos1.jpg",
+        "desc": "Momo-1(MOS-1), Japan's first marine observation satellite, was launched in 1987 as a link in a global satellite observation system for more effective natural resource utilization and for environmental protection. Momo-1 was equipped with three types of sensors: MESSR,( a spectrometer for measuring visible near infrared radiation), VTIR, (a device for measuring visible thermal infrared radiation), MSR, (for measuring microwave radiation).These seusor finished their rolls oe seuding wave onNovember 29,1995. Momo-1b(MOS-1b), which has the same functions as Momo-1, was launched subsequently as a follow-up and finished its opration on April 17,1996.",
+        "more_info": "http://www.jaxa.jp/projects/sat/mos1/index_e.html",
+        "launch_dates": [
+            "2/19/1987"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "KIKU-5 (ETS-V)",
+        "img": "http://www.jaxa.jp/projects/sat/ets5/img/photo_ets5.jpg",
+        "desc": "KIKU-5(ETS-V) was launched to confirm H-I (3-stage) launch vehicle performance, as well as to establish basic geostationary three-axis bus system technology for future satellite applications, amass independent technology required for next-generation satellite development and carry out experiments for mobile communications satellite. KIKU-5 finished its 1.5 year programmed opration on March 31,1989,while AMEX(Aerouautical Mobile. Experimeutal Trauspouder)still keeps gathering data and carring out experments.",
+        "more_info": "http://www.jaxa.jp/projects/sat/ets5/index_e.html",
+        "launch_dates": [
+            "8/27/1987"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "Sakura-3a (CS-3a)",
+        "img": "http://www.jaxa.jp/projects/sat/cs/img/photo_cs.jpg",
+        "desc": "The Communication Satellites Sakura(CS) was used to conduct a variety of communications experiments aimed at actualizing practical satellite communications systems in Japan. The Sakura-2(CS-2) were used for public communications operations and for cooperative operations such as emergency transmissions during disasters and communications with distant Japanese islands. It was also Instrumental in developing new communications technology. The Sakura-3(CS-3), replaced the communications services of the CS-2. Still in use to meet the growing demand for communications services as well as assisting in the development of higher level communication technologies. CS-3a finished its programmed operation on November 30,1995. CS-3b finished its programmed operation on May 31, 1996.",
+        "more_info": "http://www.jaxa.jp/projects/sat/cs/index_e.html",
+        "launch_dates": [
+            "2/19/1988"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "Sakura-3b (CS-3b)",
+        "img": "http://www.jaxa.jp/projects/sat/cs/img/photo_cs.jpg",
+        "desc": "The Communication Satellites Sakura(CS) was used to conduct a variety of communications experiments aimed at actualizing practical satellite communications systems in Japan. The Sakura-2(CS-2) were used for public communications operations and for cooperative operations such as emergency transmissions during disasters and communications with distant Japanese islands. It was also Instrumental in developing new communications technology. The Sakura-3(CS-3), replaced the communications services of the CS-2. Still in use to meet the growing demand for communications services as well as assisting in the development of higher level communication technologies. CS-3a finished its programmed operation on November 30,1995. CS-3b finished its programmed operation on May 31, 1996.",
+        "more_info": "http://www.jaxa.jp/projects/sat/cs/index_e.html",
+        "launch_dates": [
+            "9/16/1988"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "Himawari-4 (GMS-4)",
+        "img": "http://www.jaxa.jp/projects/sat/gms/img/photo_gms.jpg",
+        "desc": "The Japanese Geostationary Meteorological Satellite (GMS) series, also known as its nickname, \"Himawari\" (meaning a \"sunflower\"), is on the geostationary orbit at 140 degrees of east longitude to carry out weather observation from space being part of the World Weather Watch (WWW) project of the World Meteorological Organization. The images of the earth and clouds sent from this satellite series have been used in many areas such as weather forecasts in TV or newspaper; therefore, it is strongly connected to our daily life. After the \"Himawari-6\", the GMS series was replaced by a Multifunctional Transport Satellite series to broaden its scope of operation. It is operated by the Japan Meteorological Agency for climatic observation.",
+        "more_info": "http://www.jaxa.jp/projects/sat/gms/index_e.html",
+        "launch_dates": [
+            "9/6/1989"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "HITEN (MUSES-A)",
+        "img": "http://www.isas.jaxa.jp/e/enterp/missions/image/pct_main_hiten.jpg",
+        "desc": "Learning of technologies concerning precise determination and control of satellite orbit, and highly-efficient data transmission Experiment of lunar swing-by Experiment of aero braking using the earth Insertion of satellite into orbit around the Moon Measurement of cosmic dust between earth and Moon (joint research with Munich Technical University)",
+        "more_info": "http://www.isas.jaxa.jp/e/enterp/missions/hiten.shtml",
+        "launch_dates": [
+            "1/24/1990"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "Momo-1b (MOS-1b)",
+        "img": "http://www.jaxa.jp/projects/sat/mos1/img/photo_mos1.jpg",
+        "desc": "Momo-1(MOS-1), Japan's first marine observation satellite, was launched in 1987 as a link in a global satellite observation system for more effective natural resource utilization and for environmental protection. Momo-1 was equipped with three types of sensors: MESSR,( a spectrometer for measuring visible near infrared radiation), VTIR, (a device for measuring visible thermal infrared radiation), MSR, (for measuring microwave radiation).These seusor finished their rolls oe seuding wave onNovember 29,1995. Momo-1b(MOS-1b), which has the same functions as Momo-1, was launched subsequently as a follow-up and finished its opration on April 17,1996.",
+        "more_info": "http://www.jaxa.jp/projects/sat/mos1/index_e.html",
+        "launch_dates": [
+            "2/7/1990"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "ORIZURU",
+        "img": "nill",
+        "desc": "Tether for the microgravity environment/Verification of the major mechanical elements of the boomerang satellite",
+        "more_info": "nill",
+        "launch_dates": [
+            "2/7/1990"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "Yuri-3a (BS-3a)",
+        "img": "http://www.jaxa.jp/projects/sat/bs/img/photo_bs.jpg",
+        "desc": "The BS (Yuri series), in response to future broadcasting needs, have been used in a variety of broadcasting experiments as experimental satellites for reception by individual. The BS-2 (Yuri-2) were designed to solve problems with transmission in areas with poor reception and for developing the technology required for future broadcasting services of the BS-2, responding to growing broadcasting satellites. The BS-3 were launched to replace the broadcasting serices of the BS-2, responding to growing broadcasting needs while developing technologies for more advanced broadcasting satellites. They are presently being used for broadcasting and test broadcasting with high-definition television. BS-2a finished its programmed operation in April, 1989. BS-2b finished its programmed operation on October 24, 1991. BS-3a finished its programmed operation on April 20, 1998. Also, BS-3b finished its programmed operation on December 1, 1998.",
+        "more_info": "http://www.jaxa.jp/projects/sat/bs/index_e.html",
+        "launch_dates": [
+            "8/28/1990"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "Yuri-3b (BS-3b)",
+        "img": "http://www.jaxa.jp/projects/sat/bs/img/photo_bs.jpg",
+        "desc": "The BS (Yuri series), in response to future broadcasting needs, have been used in a variety of broadcasting experiments as experimental satellites for reception by individual. The BS-2 (Yuri-2) were designed to solve problems with transmission in areas with poor reception and for developing the technology required for future broadcasting services of the BS-2, responding to growing broadcasting satellites. The BS-3 were launched to replace the broadcasting serices of the BS-2, responding to growing broadcasting needs while developing technologies for more advanced broadcasting satellites. They are presently being used for broadcasting and test broadcasting with high-definition television. BS-2a finished its programmed operation in April, 1989. BS-2b finished its programmed operation on October 24, 1991. BS-3a finished its programmed operation on April 20, 1998. Also, BS-3b finished its programmed operation on December 1, 1998.",
+        "more_info": "http://www.jaxa.jp/projects/sat/bs/index_e.html",
+        "launch_dates": [
+            "8/25/1991"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "YOHKOH (SOLAR-A)",
+        "img": "http://www.isas.jaxa.jp/e/enterp/missions/yohkoh/image/pct_main_yohkoh.jpg",
+        "desc": "Observation of solar flares during maximum period of solar activity and observation of physical phenomena of solar coronas related to solar flares",
+        "more_info": "http://www.isas.jaxa.jp/e/enterp/missions/yohkoh/index.shtml",
+        "launch_dates": [
+            "8/30/1991"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "FUYO-1 (JERS-1)",
+        "img": "http://www.jaxa.jp/projects/sat/jers1/img/photo_jers1.jpg",
+        "desc": "FUYO-1(JERS-1) is an earth observation satellite whose primary objective is to gather data on global land masses while conducting observation for land surveys, agricultural-forestry-fishieries, enviromnental protection, disaster prevention and coastal surveillance, with emphasis on locating natural resources. In order to optimize accuracy in measurements, JERS-1 was equipped with SAR (Synthetic Aperture Radar), which is an active microwave sensor, and OPS, an optical sensor that measures light reflected from the earth's surface ranging from visible light to shortwave infrared light. FUYO-1 is a joint project of NASDA and MITI. NASDA was responsible for the main satellite unit and MITI was responsible for the measuring instruments. Since its launching in 1992, the satellite had continued to supply observation data to users in Japan and abroad. Though the design life of FUYO-1 was 2 years, the satellite had obtained observational data for more than 6 years, and ended the mission on October 12, 1998.",
+        "more_info": "http://www.jaxa.jp/projects/sat/jers1/index_e.html",
+        "launch_dates": [
+            "2/11/1992"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "ASCA (ASTRO-D)",
+        "img": "http://www.isas.jaxa.jp/e/enterp/missions/asca/image/pct_main_asuka.jpg",
+        "desc": "Precise X-ray observation of various bodies in the universe and X-ray exploration of the deepest region of the universe such as galaxy clusters",
+        "more_info": "http://www.isas.jaxa.jp/e/enterp/missions/asca/index.shtml",
+        "launch_dates": [
+            "2/20/1993"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "KIKU-6 (ETS-VI)",
+        "img": "http://www.jaxa.jp/projects/sat/ets6/img/photo_ets6.jpg",
+        "desc": "KIKU-6(ETS-VI) was developed to confirm the technology required for a geostationary three-axis satellite bus system for high performance practical satellites in the 1990's, and to test advanced satellite communications equipment. It was launched by the H-II also to confirm the performance of the launch vehicle. The injection into orbit was abandoned because of a malfunction in the apogee-engine.",
+        "more_info": "http://www.jaxa.jp/projects/sat/ets6/index_e.html",
+        "launch_dates": [
+            "8/28/1994"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "SFU",
+        "img": "http://www.isas.jaxa.jp/e/enterp/missions/image/pct_main_sfu.jpg",
+        "desc": "Verify the effectiveness of retrieval and reuse system by conducting launch, in-orbit experiments and retrieval. Conduct scientific and engineering experiments and astronomical observations in orbit.",
+        "more_info": "http://www.isas.jaxa.jp/e/enterp/missions/sfu.shtml",
+        "launch_dates": [
+            "3/18/1995"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "Himawari-5 (GMS-5)",
+        "img": "http://www.jaxa.jp/projects/sat/gms/img/photo_gms.jpg",
+        "desc": "The Japanese Geostationary Meteorological Satellite (GMS) series, also known as its nickname, \"Himawari\" (meaning a \"sunflower\"), is on the geostationary orbit at 140 degrees of east longitude to carry out weather observation from space being part of the World Weather Watch (WWW) project of the World Meteorological Organization. The images of the earth and clouds sent from this satellite series have been used in many areas such as weather forecasts in TV or newspaper; therefore, it is strongly connected to our daily life. After the \"Himawari-6\", the GMS series was replaced by a Multifunctional Transport Satellite series to broaden its scope of operation. It is operated by the Japan Meteorological Agency for climatic observation.",
+        "more_info": "http://www.jaxa.jp/projects/sat/gms/index_e.html",
+        "launch_dates": [
+            "3/18/1995"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "Midori (ADEOS)",
+        "img": "http://www.jaxa.jp/projects/sat/adeos/img/photo_adeos.jpg",
+        "desc": "Primary applications include monitoring global environmental changes such as maritime meteorological conditions, atmospheric ozone, and gases that promote global warming. ADEOS was also expected to play a vital role in developing more sophisticated inter-orbit communications and platform technology for the satellite of tomorrow. ADEOS was launched by H-II Launch Vehicle No.4 on August 1996 and provided a large volume of data containing valuable information about our environment atmosphere, ocean and land for about 10 months until it suddenly got out of control on June 30, 1997 because of the structural damage in its solar array paddle.",
+        "more_info": "http://www.jaxa.jp/projects/sat/adeos/index_e.html",
+        "launch_dates": [
+            "8/17/1996"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "HALCA (MUSES-B)",
+        "img": "http://www.isas.jaxa.jp/e/enterp/missions/halca/image/pct_main_haruka.jpg",
+        "desc": "Conduct radio-wave observation in orbit in combination with radio telescopes on the ground (VSOP: VLBI Space Observatory Programme). In addition, to conduct various engineering demonstrations including deployment technology of large antenna, highly stable data-transmission technology to compare atomic clock onboard the satellite with one on the ground, and precise attitude control. *VLBI: Very Long Baseline Interferometer",
+        "more_info": "http://www.isas.jaxa.jp/e/enterp/missions/halca/index.shtml",
+        "launch_dates": [
+            "2/12/1997"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "KIKU-7 (ETS-VII)",
+        "img": "http://www.jaxa.jp/projects/sat/ets7/img/photo_ets7.jpg",
+        "desc": "KIKU-7(ETS-VII) is the satellite developed to acquire the basic technologies of rendezvous docking and space robotics which are essential to future space activities. KIKU-7 consists of two satellites named \"Chaser\" and \"Target.\" Each satellite is separated in space after launching and rendezvous docking experiment has been conducted three times, in which the Chaser satellite automatically and remotely being piloted. Furthermore, we have very often conducted the space robot experiments which include manipulation of small parts, propellant replenishment by using the robot arms installed on the Chaser remotely piloted. Several scientific data have been acquired by these experimental results.",
+        "more_info": "http://www.jaxa.jp/projects/sat/ets7/index_e.html",
+        "launch_dates": [
+            "11/28/1997"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "Kakehashi (COMETS)",
+        "img": "http://www.jaxa.jp/projects/sat/comets/img/photo_comets.jpg",
+        "desc": "Kakehashi(COMETS), a two-ton geostationary three-axis stabilized satellite, is being created to develop the new technologies required for future fields in communications and broadcasting. Relay satellites in geostationary orbit will be used to develop the following technologies: Inter-orbit communications technology for relay of communications between observation satellites or space stations in low-altitude circular orbits and earth stations. Advanced satellite broadcast technology for broad-band region-specific broadcasts and high definition television broadcasts using K-band frequency bands. Development of advanced mobile satellite communications technology possessing reproduction relay and inter-beam connection functions by employing K-bands and miliband frequencies. The COMETS was launched by its 5th H-II Launch Vehicle on February 21, 1998 (JST). Though the first burnig was normal, the second burning time period of the second-stage engine was shorter than scheduled which resulted in injection of the COMETS satellite to lower orbit than the geostationary transfer orbit. Due to successful seven orbital controls, COMETS has been moved to recurrent orbit. It was used for conducting scheduled experiments on the orbit as possible. The routon operetion phase of the COMETS was bought to un end on January 31,1999, and its extcnded phese started. NASDA terminated its operation on August 6, 1999.",
+        "more_info": "http://www.jaxa.jp/projects/sat/comets/index_e.html",
+        "launch_dates": [
+            "2/21/1998"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "NOZOMI (PLANET-B)",
+        "img": "http://www.isas.jaxa.jp/e/enterp/missions/nozomi/image/pct_main_nozomi.jpg",
+        "desc": "Research on interaction between Martian upper atmosphere and solar wind, observation of Martian magnetic field, remote-sensing of Martian surface and satellites, etc.",
+        "more_info": "http://www.isas.jaxa.jp/e/enterp/missions/nozomi/index.shtml",
+        "launch_dates": [
+            "7/4/1998"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "TSUBASA (MDS-1)",
+        "img": "http://www.jaxa.jp/projects/sat/mds1/img/photo_mds1.jpg",
+        "desc": "The Mission Demonstration Test Satellite-1 (TSUBASA) was launched by the H-IIA F2 from Tanegashima Space Center (TNSC) on February 4th, 2002. It completed its actual operational period on February 26th, 2003, and later entered the utilization period. Mission demonstration test satellites obtain basic data and allow scientists to test the functioning of various devices on actual satellites before those devices are deployed in higher-risk and more challenging missions. To shorten the development period and lower costs, these test satellites carry both newly developed equipment and devices with a known track record. These satellites also allow the use of increasingly complex commercially manufactured parts for space development, helping develop an industry that will lead to spacecraft with higher performance, lower costs, and smaller and lighter components. Furthermore, the use of commercial components means a shorter development period. The satellite bus system, the mission equipment, the tracking and control system, and the experiment-evaluation system have been integrated into one system in the development of TSUBASA.",
+        "more_info": "http://www.jaxa.jp/projects/sat/mds1/index_e.html",
+        "launch_dates": [
+            "2/24/2002"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "Midori-II (ADEOS-II)",
+        "img": "http://www.jaxa.jp/projects/sat/adeos2/img/photo_adeos2.jpg",
+        "desc": "The Advanced Earth Observing Satellite-II \"Midori II\"(ADEOS-II), the successor of the Advanced Earth Observing Satellite \"Midori\"(ADEOS) launched in 1996, is also known as Midori II. Midori II was launched by the H-IIA launch vehicle in December 14, 2002. Midori II has been engaged in various observation missions to understand the realities and causes of global environmental changes, such as abnormal weather conditions and the expansion of the ozone hole.?The combination of various sensor technologies allow the satellite to detect different electromagnetic waves reflected or emitted from plants, water and the atmosphere, enabling more precise observation of the Earth. Midori II is equipped with two sensors: the Advanced Microwave Scanning Radiometer (AMSR), which, day and night, can observe geographical parameters related to water; and the Global Imager (GLI), which can extensively and accurately observe oceans, land and clouds. The Global Imager is said to have attained the world’s highest standards in this field, in that it can observe the reflected solar radiation from the Earth’s surface, in order to understand the distribution of sea-surface temperature, snow, ice, cloud cover, aerosol, forest, sea phytoplankton, etc. Other devices on Midori II include the Improved Limb Atmospheric Spectrometer-II (ILAS-II), Sea Winds, the Polarization and Directionality of the Earth’s Reflectance (POLDER), and the Data Collection System (DCS). After an anomaly was detected in the \"Midori-II\" satellite on October 25, 2003, JAXA found that the possibility of restoring operations of the Midori-II was extremely slim as a result of its investigation, analysis, and inability to re-establish any communication with the satellite as of Oct. 31, 2003.",
+        "more_info": "http://www.jaxa.jp/projects/sat/adeos2/index_e.html",
+        "launch_dates": [
+            "2/4/2002"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "Micro-LabSat",
+        "img": "http://www.jaxa.jp/projects/sat/labsat/img/photo.jpg",
+        "desc": "Micro LabSat, weighing just 50 kg and with dimensions of about 70 cm x 50 cm, is a small satellite launched by the H-IIA F4 rocket from the Tanegashima Space Center (TNSC) on December 14, 2002. It is a unique in that it is \"handmade\" - fabricated mainly by young JAXA engineers. The project’s aim was to foster innovation among young engineers and enable them to learn technologies to design, assemble, and test satellites. Their team performed almost all of the development and operation of the satellite, and all of the installed software was developed by JAXA. Furthermore, with a view to being able to use commercial, off-the-shelf components in the future, JAXA has had devices of its own design manufactured by specialized private-sector companies. This project also serves as a test case for the production of small satellites more efficiently and at reduced cost. With this program, Japan has taken another step forward in the field of space technology. After three and half years of operation, which was longer than its scheduled mission period, radio frequency links were terminated on September 27, 2006, to complete its mission operation. We will do our best to contribute to society by sharing our learning experience from the small satellite with the private sector.",
+        "more_info": "http://www.jaxa.jp/projects/sat/labsat/index_e.html",
+        "launch_dates": [
+            "12/14/2002"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "LUNAR-A",
+        "img": "http://www.jaxa.jp/projects/sat/lunar_a/img/photo.jpg",
+        "desc": "LUNAR-A, will conduct Japan’s first full-fledged lunar mission. When it comes to lunar exploration, most people think about the missions conducted by the United States and the former Soviet Union. But those countries conducted only geographical research, mainly targeting the configuration of the lunar surface and rocks. LUNAR-A will directly investigate the interior of the Moon, which could provide a lot of data on the Moon’s origin and evolution. The Apollo mission conducted by the United States made a soft landing on the Moon’s surface, in order to cause as little damage as possible to the probe vehicle. LUNAR-A, on the other hand, is an unmanned probe, and will make a relatively hard landing, which means that the deceleration rocket and the control system can be smaller, allowing for a smaller probe vehicle.",
+        "more_info": "http://www.jaxa.jp/projects/sat/lunar_a/index_e.html",
+        "launch_dates": [
+            "  "
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "KIRARI (OICETS)",
+        "img": "http://www.jaxa.jp/projects/sat/oicets/img/photo-1_oicets.jpg",
+        "desc": "KIRARI (OICETS) will enable optical inter-orbit communications tests between satellites that are tens of thousands of kilometers apart. An optical inter-orbit communications system will bring various advantages: more stable communications with less interference; lighter, more compact communications equipment; and higher data transmission rates. These tests are expected to lead to new technologies that will support the development and utilization of space, including global data reception from Earth Observation satellites and continuous communication links with a manned space station. OICETS was launched on August 24, 2005 by a Dnepr rocket from the Baikonur Cosmodrome and named \"KIRARI\", in order to conduct demonstrations with ARTEMIS, the latest geostationary satellite belonging to the European Space Agency (ESA).",
+        "more_info": "http://www.jaxa.jp/projects/sat/oicets/index_e.html",
+        "launch_dates": [
+            "8/24/2005"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "KAGUYA (SELENE)",
+        "img": "http://www.jaxa.jp/projects/sat/selene/img/photo.jpg",
+        "desc": "The SELenological and ENgineering Explorer \"KAGUYA\" (SELENE), Japan’s first large lunar explorer, was launched by the H-IIA rocket on September 14, 2007 (JST). The mission, which is the largest lunar mission since the Apollo program, is being keenly anticipated by many countries. The major objectives of the mission are to understand the Moon’s origin and evolution, and to observe the moon in various ways in order to utilize it in the future. The lunar missions that have been conducted so far have gathered a large amount of information on the Moon, but the mysteries of its origin and evolution have been left unsolved. KAGUYA will investigate the entire moon in order to obtain information on its elemental and mineralogical composition, its geography, its surface and sub-surface structure, the remnant of its magnetic field, and its gravity field. The results are expected to lead to a better overall understanding of the Moon’s evolution. At the same time, the observation equipment installed on the orbiting satellite will observe plasma, the electromagnetic field and high-energy particles. The data obtained in this way will be of great scientific importance for exploring the possibility of using the moon for human endeavors.",
+        "more_info": "http://www.jaxa.jp/projects/sat/selene/index_e.html",
+        "launch_dates": [
+            "9/14/2007"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "HAYABUSA (MUSES-C)",
+        "img": "http://www.jaxa.jp/projects/sat/muses_c/img/itokawa.jpg",
+        "desc": "HAYABUSA, which was launched on May 9, 2003,achieved its goal of arriving at the Itokawa asteroid and performing scientific observations. As a result, its mission was featured in the scientific magazine \"Science\" as a first Japanese mission to illustrate various new findings about the asteroid including its gravity and surface conditions. The HAYABUSA returned to Earth on June 13, 2010, dropped its onboard capsule in Australia, and completed its operation.",
+        "more_info": "http://www.jaxa.jp/projects/sat/muses_c/index_e.html",
+        "launch_dates": [
+            "5/9/2003"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "SDS-1",
+        "img": "http://www.jaxa.jp/projects/sat/sds1/img/photo1.jpg",
+        "desc": "The Small Demonstration Satellite (SDS) program aims to improve the reliability of practical artificial satellites by demonstrating a wide range of new space technologies covering everything from equipment and element to system engineering. Small DemonstrationSatellites are able to be developed quickly and inexpensively compared with large satellites. This is quite useful, as it allows aerospace researchers to demonstrate and experiment with various technologies in orbit within short time frames. System design, integration and testing of the SDS program are carried in-house by JAXA researchers. These activities contribute to improving system engineering skills and other abilities of young engineers. SDS-1 was launched as a sub-satellite of the Greenhouse Gases Observing Satellite (GOSAT) with H-IIA Launch Vehicle No. 15. The JAXA Aerospace Research and Development derectorate plans to serialize 100kg-class small demonstration satellites with SDS-1 as the forerunner.",
+        "more_info": "http://www.jaxa.jp/projects/sat/sds1/index_e.html",
+        "launch_dates": [
+            "1/23/2009"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "DAICHI",
+        "img": "http://www.jaxa.jp/projects/sat/alos/img/photo1.jpg",
+        "desc": "The Advanced Land Observing Satellite \"DAICHI\" (ALOS) has been developed to contribute to the fields of mapping, precise regional land coverage observation, disaster monitoring, and resource surveying. It enhances land observation technologies acquired through the development and operation of its predecessors, the Japanese Earth Resource Satellite-1 (JERS-1, or Fuyo) and the Advanced Earth Observing Satellite (ADEOS, or Midori). ALOS has three sensors: the Panchromatic Remote-sensing Instrument for Stereo Mapping (PRISM), which is comprised of three sets of optical systems to measure precise land elevation; the Advanced Visible and Near Infrared Radiometer type 2 (AVNIR-2), which observes what covers land surfaces; and the Phased Array type L-band Synthetic Aperture Radar (PALSAR), which enables day-and-night and all-weather land observation.",
+        "more_info": "http://www.jaxa.jp/projects/sat/alos/index_e.html",
+        "launch_dates": [
+            "1/24/2006"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "AKARI",
+        "img": "http://www.jaxa.jp/projects/sat/astro_f/img/murakami_s.jpg",
+        "desc": "Here are messages from Project Managers. To read the messages, click here.",
+        "more_info": "http://www.jaxa.jp/projects/sat/astro_f/index_e.html",
+        "launch_dates": [
+            "2/22/2006"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "Spectroscopic Planet Observatory for Recognition of Interaction of Atmosphere \"HISAKI\" (SPRINT-A)",
+        "desc": "Spectroscopic Planet Observatory for Recognition of Interaction of Atmosphere \"HISAKI\" (SPRINT-A)",
+        "img": "http://www.jaxa.jp/projects/rockets/sprint_a/img/photo.jpg",
+        "more_info": "http://www.jaxa.jp/projects/rockets/sprint_a/index_e.html",
+        "launch_dates": [
+            "9/14/2013"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "H-II Transfer Vehicle \"KOUNOTORI\"4 (HTV4)",
+        "desc": "H-II Transfer Vehicle \"KOUNOTORI\"4 (HTV4)",
+        "img": "http://www.jaxa.jp/projects/rockets/htv/img/photo.jpg",
+        "more_info": "http://www.jaxa.jp/projects/rockets/htv/index_e.html",
+        "launch_dates": [
+            "8/4/2013"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "H-II Transfer Vehicle \"KOUNOTORI\"3 (HTV3)",
+        "desc": "H-II Transfer Vehicle \"KOUNOTORI\"3 (HTV3)",
+        "img": "http://www.jaxa.jp/projects/rockets/htv/img/photo.jpg",
+        "more_info": "http://www.jaxa.jp/projects/rockets/htv/index_e.html",
+        "launch_dates": [
+            "7/21/2012"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "Global Change Observation Mission 1st - Water \"SHIZUKU\" (GCOM-W1)",
+        "desc": "Global Change Observation Mission 1st - Water \"SHIZUKU\" (GCOM-W1)",
+        "img": "http://www.jaxa.jp/projects/sat/gcom_w/img/photo.jpg",
+        "more_info": "http://www.jaxa.jp/projects/sat/gcom_w/index_e.html",
+        "launch_dates": [
+            "5/18/2012"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "",
+        "desc": "",
+        "img": "nill",
+        "more_info": "nill",
+        "launch_dates": [
+            "5/18/2012"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "Small Demonstration Satellite-4 (SDS-4)",
+        "desc": "Small Demonstration Satellite-4 (SDS-4)",
+        "img": "http://www.jaxa.jp/projects/sat/sds4/img/photo1.jpg",
+        "more_info": "http://www.jaxa.jp/projects/sat/sds4/index_e.html",
+        "launch_dates": [
+            "5/18/2012"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "H-II Transfer Vehicle \"KOUNOTORI\"2 (HTV2)",
+        "desc": "H-II Transfer Vehicle \"KOUNOTORI\"2 (HTV2)",
+        "img": "http://www.jaxa.jp/projects/rockets/htv/img/photo.jpg",
+        "more_info": "http://www.jaxa.jp/projects/rockets/htv/index_e.html",
+        "launch_dates": [
+            "1/22/2011"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "Quasi-Zenith Satellite-1 \"MICHIBIKI\"",
+        "desc": "Quasi-Zenith Satellite-1 \"MICHIBIKI\"",
+        "img": "http://www.jaxa.jp/projects/sat/qzss/img/photo1.jpg",
+        "more_info": "http://www.jaxa.jp/projects/sat/qzss/index_e.html",
+        "launch_dates": [
+            "9/11/2010"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "Venus Climate Orbiter \"AKATSUKI\" (PLANET-C)",
+        "desc": "Venus Climate Orbiter \"AKATSUKI\" (PLANET-C)",
+        "img": "http://www.jaxa.jp/projects/sat/planet_c/img/photo.jpg",
+        "more_info": "http://www.jaxa.jp/projects/sat/planet_c/index_e.html",
+        "launch_dates": [
+            "5/21/2010"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "",
+        "desc": "",
+        "img": "nill",
+        "more_info": "nill",
+        "launch_dates": [
+            "5/21/2010"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "Small Solar Power Sail Demonstrator \"IKAROS\"",
+        "desc": "Small Solar Power Sail Demonstrator \"IKAROS\"",
+        "img": "http://www.jaxa.jp/projects/sat/ikaros/img/photo1.jpg",
+        "more_info": "http://www.jaxa.jp/projects/sat/ikaros/index_e.html",
+        "launch_dates": [
+            "5/21/2010"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "H-II Transfer Vehicle \"KOUNOTORI\" (HTV Demonstration Flight)",
+        "desc": "H-II Transfer Vehicle \"KOUNOTORI\" (HTV Demonstration Flight)",
+        "img": "http://www.jaxa.jp/projects/rockets/htv/img/photo.jpg",
+        "more_info": "http://www.jaxa.jp/projects/rockets/htv/index_e.html",
+        "launch_dates": [
+            "9/11/2009"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "Japanese Experiment Module \"Kibo\" Exposed Facility",
+        "desc": "Japanese Experiment Module \"Kibo\" Exposed Facility",
+        "img": "http://www.jaxa.jp/projects/iss_human/kibo/img/photo1.jpg",
+        "more_info": "http://www.jaxa.jp/projects/iss_human/kibo/index_e.html",
+        "launch_dates": [
+            "7/16/2009"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "Greenhouse gases Observing SATellite \"IBUKI\" (GOSAT)",
+        "desc": "Greenhouse gases Observing SATellite \"IBUKI\" (GOSAT)",
+        "img": "http://www.jaxa.jp/projects/sat/gosat/img/photo-1_goast.jpg",
+        "more_info": "http://www.jaxa.jp/projects/sat/gosat/index_e.html",
+        "launch_dates": [
+            "1/23/2009"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "",
+        "desc": "",
+        "img": "nill",
+        "more_info": "nill",
+        "launch_dates": [
+            "1/23/2009"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "Small Demonstration Satellite-1 (SDS-1)",
+        "desc": "Small Demonstration Satellite-1 (SDS-1)",
+        "img": "http://www.jaxa.jp/projects/sat/sds1/img/photo1.jpg",
+        "more_info": "http://www.jaxa.jp/projects/sat/sds1/index_e.html",
+        "launch_dates": [
+            "1/23/2009"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "Japanese Experiment Module \"Kibo\" Pressurized Module",
+        "desc": "Japanese Experiment Module \"Kibo\" Pressurized Module",
+        "img": "http://www.jaxa.jp/projects/iss_human/kibo/img/photo1.jpg",
+        "more_info": "http://www.jaxa.jp/projects/iss_human/kibo/index_e.html",
+        "launch_dates": [
+            "6/1/2008"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "Japanese Experiment Module \"Kibo\" Experiment Logistics Module",
+        "desc": "Japanese Experiment Module \"Kibo\" Experiment Logistics Module",
+        "img": "http://www.jaxa.jp/projects/iss_human/kibo/img/photo1.jpg",
+        "more_info": "http://www.jaxa.jp/projects/iss_human/kibo/index_e.html",
+        "launch_dates": [
+            "3/11/2008"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "Wideband InterNetworking engineering test and Demonstration Satellite \"KIZUNA\" (WINDS)",
+        "desc": "Wideband InterNetworking engineering test and Demonstration Satellite \"KIZUNA\" (WINDS)",
+        "img": "http://www.jaxa.jp/projects/sat/winds/img/photo.jpg",
+        "more_info": "http://www.jaxa.jp/projects/sat/winds/index_e.html",
+        "launch_dates": [
+            "2/23/2008"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "SELenological and ENgineering Explorer \"KAGUYA\" (SELENE)",
+        "desc": "SELenological and ENgineering Explorer \"KAGUYA\" (SELENE)",
+        "img": "http://www.jaxa.jp/projects/sat/selene/img/photo.jpg",
+        "more_info": "http://www.jaxa.jphttp://www.jaxa.jp/projects/sat/selene/index_e.html",
+        "launch_dates": [
+            "9/14/2007"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "Engineering Test Satellite VIII \"KIKU No.8\" (ETS-VIII)",
+        "desc": "Engineering Test Satellite VIII \"KIKU No.8\" (ETS-VIII)",
+        "img": "http://www.jaxa.jp/projects/sat/ets8/img/photo.jpg",
+        "more_info": "http://www.jaxa.jp/projects/sat/ets8/index_e.html",
+        "launch_dates": [
+            "12/18/2006"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "Solar Physics Satellite \"HINODE\" (SOLAR-B)",
+        "desc": "Solar Physics Satellite \"HINODE\" (SOLAR-B)",
+        "img": "http://www.jaxa.jp/projects/sat/solar_b/img/photo.jpg",
+        "more_info": "http://www.jaxa.jp/projects/sat/solar_b/index_e.html",
+        "launch_dates": [
+            "9/23/2006"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "Infrared Imaging Satellite \"AKARI\" (ASTRO-F)",
+        "desc": "Infrared Imaging Satellite \"AKARI\" (ASTRO-F)",
+        "img": "http://www.jaxa.jp/projects/sat/astro_f/img/photo.jpg",
+        "more_info": "http://www.jaxa.jp/projects/sat/astro_f/index_e.html",
+        "launch_dates": [
+            "2/22/2006"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "Multi-functional Transport Satellite-2 \"Himawari-7\" (MTSAT-2)",
+        "desc": "Multi-functional Transport Satellite-2 \"Himawari-7\" (MTSAT-2)",
+        "img": "nill",
+        "more_info": "nill",
+        "launch_dates": [
+            "2/18/2006"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "Advanced Land Observing Satellite \"DAICHI\" (ALOS)",
+        "desc": "Advanced Land Observing Satellite \"DAICHI\" (ALOS)",
+        "img": "http://www.jaxa.jp/projects/sat/alos/img/photo1.jpg",
+        "more_info": "http://www.jaxa.jp/projects/sat/alos/index_e.html",
+        "launch_dates": [
+            "1/24/2006"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "Optical Inter-orbit Communications Engineering Test Satellite \"KIRARI\" (OICETS)",
+        "desc": "Optical Inter-orbit Communications Engineering Test Satellite \"KIRARI\" (OICETS)",
+        "img": "http://www.jaxa.jp/projects/sat/oicets/img/photo-1_oicets.jpg",
+        "more_info": "http://www.jaxa.jp/projects/sat/oicets/index_e.html",
+        "launch_dates": [
+            "8/24/2005"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "",
+        "desc": "",
+        "img": "nill",
+        "more_info": "nill",
+        "launch_dates": [
+            "8/24/2005"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "INnovative-technology Demonstration Experiment \"REIMEI\" (INDEX)",
+        "desc": "INnovative-technology Demonstration Experiment \"REIMEI\" (INDEX)",
+        "img": "http://www.jaxa.jp/projects/sat/index/img/photo.jpg",
+        "more_info": "http://www.jaxa.jp/projects/sat/index/index_e.html",
+        "launch_dates": [
+            "8/24/2005"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "X-ray Astronomy Satellite \"Suzaku\" (ASTRO-EII)",
+        "desc": "X-ray Astronomy Satellite \"Suzaku\" (ASTRO-EII)",
+        "img": "http://www.jaxa.jp/projects/sat/astro_e2/img/photo.jpg",
+        "more_info": "http://www.jaxa.jp/projects/sat/astro_e2/index_e.html",
+        "launch_dates": [
+            "7/10/2005"
+        ],
+        "agency": "JAXA"
+    },
+    {
+        "name": "Multi-Functional Transport Satellite-1 Replacement \"Himawari-6\" (MTSAT-1R)",
+        "desc": "Multi-Functional Transport Satellite-1 Replacement \"Himawari-6\" (MTSAT-1R)",
+        "img": "nill",
+        "more_info": "nill",
+        "launch_dates": [
+            "2/26/2005"
+        ],
+        "agency": "JAXA"
+    }
+]
